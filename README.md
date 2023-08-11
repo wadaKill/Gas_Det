@@ -7,9 +7,9 @@ The source code **Final.f** is the merged version (without comments) of all sour
 
 ***Project INFO:***
 
-Taget :             Raspberry Pi 3A+;
+Taget :            **Raspberry Pi 3A+**;
 
-Source Language :   FORTH;
+Source Language :   **FORTH**;
 
-Interpreter used :  pijFORTHos;
+Interpreter used :  **pijFORTHos**;
 
